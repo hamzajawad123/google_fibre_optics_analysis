@@ -19,7 +19,7 @@ The analysis focuses on evaluating operational efficiency by examining downtime 
 
 ## 🛠️ Tech Stack
 
-<img src="https://img.shields.io/badge/Python-Programming%20Language-blue?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-Structured%20Query%20Language-blue?style=for-the-badge&logo=mysql&logoColor=white"/>   
 <img src="https://img.shields.io/badge/Tableau-Data%20Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
 ---
